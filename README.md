@@ -1,5 +1,6 @@
 # scrapers
-Contains codes from different web scraping processes;
+* Contains codes from different web scraping processes.
+* The codes are functional in airflow as DAGs.
 
 # fx_rate:
 Scraper of public information on the exchange rates of several countries, each country has a different scraper.
